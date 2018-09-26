@@ -5,7 +5,7 @@ Material for my talk about typing Vue.js and vuex using TypeScript
 
 > This is the material for my introductory talk about using TypeScript and vuex together.
 
-![frontpage](frontpage.png)
+![frontpage](frontpage.jpg)
 
 ## Examples
 All the examples can be found under `./src`.
