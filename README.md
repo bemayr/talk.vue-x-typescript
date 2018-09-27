@@ -1,9 +1,5 @@
 # talk.vue-x-typescript
-Material for my talk about typing Vue.js and vuex using TypeScript
-
-# Introduction to Cycle.js
-
-> This is the material for my introductory talk about using TypeScript and vuex together.
+> Material for my talk about typing Vue.js and vuex using TypeScript
 
 ![frontpage](frontpage.jpg)
 
